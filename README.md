@@ -13,7 +13,7 @@ In Fig. #1 it shows that Urban cities type has the largest number of rides and d
 
 Fig. #1
 
-https://github.com/dbrashears63/PyBer_Analysis/blob/main/Analysis/PyBer_Summary_Table.png
+<img src="[url](https://github.com/dbrashears63/PyBer_Analysis/blob/main/Analysis/PyBer_Summary_Table.png)" width="50%" height="50%">
 
 
 
