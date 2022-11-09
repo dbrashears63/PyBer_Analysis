@@ -17,7 +17,9 @@ Fig. #1
 
 When the average fare per ride is reviewed the Rural city type has the highest average fare per ride. The Urban city type has the lowest average fare per ride. The possibly reason why the Rural city type driver makes more on average per ride is because of the length and distance of the ride. The Urban city type driver makes less per ride for the same reason. Although the Urban city type driver makes less per ride, they overall make more money due to the volume of rides. 
 The chart below provides a quick look to see how each city type performs and where the resources of the company might be best suited. 
-(chart here)
+
+Chart #1
+![]( https://github.com/dbrashears63/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
 
 ## Summary and Recommendations
