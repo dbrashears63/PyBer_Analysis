@@ -8,8 +8,15 @@ This study was conducted using software packages Python Version 3.10.7; Jupyter 
   
 ## Results
 The key metrics reviewed were Total Rides, Total Drivers, Total Fares, Average Fare per Ride and Average Fare per Driver.
+
 In Fig. #1 it shows that Urban cities type has the largest number of rides and drivers, and Rural city type has the least. The Urban city type brings the most revenue and Rural city type brings in the least amount of revenue. This is backed up by the information contained in the Total Fares column. 
-(put png here)
+
+Fig. #1
+
+https://github.com/dbrashears63/PyBer_Analysis/blob/main/Analysis/PyBer_Summary_Table.png
+
+
+
 When the average fare per ride is reviewed the Rural city type has the highest average fare per ride. The Urban city type has the lowest average fare per ride. The possibly reason why the Rural city type driver makes more on average per ride is because of the length and distance of the ride. The Urban city type driver makes less per ride for the same reason. Although the Urban city type driver makes less per ride, they overall make more money due to the volume of rides. 
 The chart below provides a quick look to see how each city type performs and where the resources of the company might be best suited. 
 (chart here)
